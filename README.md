@@ -3,6 +3,9 @@
 **Relative Path of files:**
 
 habitica/website/client/src/components/chat/chatCard.vue
+
 habitica/website/client/src/components/chat/chatMessages.vue
+
 habitica/website/client/src/components/chat/copyAsHabitModal.vue
+
 habitica/website/common/locales/en/groups.json
